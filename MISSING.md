@@ -6,6 +6,7 @@ Locomotion.GrabWorld.Name
 Locomotion.GrabWorld.Description  
 Locomotion.Slide.Name  
 Locomotion.Slide.Description  
+Profile.Status.Offline  
 Inspector.MeshRenderer.MergeByMaterial  
 Inspector.MeshRenderer.SplitByMaterial  
 Inspector.SkinnedMesh.SeparateOutBlendshapes  
@@ -35,11 +36,6 @@ Inspector.DynamicBoneChain.AddFixedCollidersFromHierarchy
 Inspector.DynamicBoneChain.AlwaysGrabLastBone  
 
 # German [de]
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 Inspector.DynamicBoneChain.SetupFromChildren  
 Inspector.DynamicBoneChain.SetupFromChildrenAll  
 Inspector.DynamicBoneChain.SetupFromChildrenRig  
@@ -98,11 +94,6 @@ Interaction.LaserEnabled
 Interaction.LaserDisabled  
 Interaction.Locomotion  
 Interaction.Locomotion.None  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 Dash.Screens.Home  
 Dash.Screens.Worlds  
 Dash.Screens.Contacts  
@@ -897,19 +888,25 @@ Temporary.MMC.VotedAlready
 Temporary.MMC.VoteInvalid  
 
 # Esperanto [eo]
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
+CameraControl.Positioning.FieldOfView  
+CameraControl.Positioning.AngleOffset  
+CameraControl.Positioning.Distance  
+CameraControl.Positioning.Height  
+CameraControl.Positioning.FirstPersonPitch  
+CameraControl.Positioning.FirstPersonRoll  
+CameraControl.Positioning.FirstPersonOffset  
+CameraControl.Positioning.Reset  
+Inspector.DynamicBoneChain.SetupFromChildren  
+Inspector.DynamicBoneChain.SetupFromChildrenAll  
+Inspector.DynamicBoneChain.SetupFromChildrenRig  
+Inspector.DynamicBoneChain.ReplaceSmoothTransforms  
+Inspector.DynamicBoneChain.ClearSmoothTransforms  
+Inspector.DynamicBoneChain.CollidersGrabbingHeader  
+Inspector.DynamicBoneChain.AddFixedCollidersFromHierarchy  
+Inspector.DynamicBoneChain.AlwaysGrabLastBone  
 
 # Spanish [es]
 General.Done  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 Credits.Title  
 Credits.TokenPrompt  
 Credits.NCR.Title  
@@ -1246,11 +1243,6 @@ Temporary.MMC.VotedAlready
 Temporary.MMC.VoteInvalid  
 
 # Estonian [et]
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 Inspector.DynamicBoneChain.SetupFromChildren  
 Inspector.DynamicBoneChain.SetupFromChildrenAll  
 Inspector.DynamicBoneChain.SetupFromChildrenRig  
@@ -1262,11 +1254,6 @@ Inspector.DynamicBoneChain.AlwaysGrabLastBone
 
 # Finnish [fi]
 General.Done  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 World.Detail.Users.Count  
 World.SortParameter.SearchScore  
 World.SortParameter.Name  
@@ -1843,11 +1830,6 @@ Temporary.MMC.VoteInvalid
 
 # French [fr]
 Interaction.ResetScale  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 World.Actions.GetWorldOrb  
 Inspector.DynamicBoneChain.SetupFromChildren  
 Inspector.DynamicBoneChain.SetupFromChildrenAll  
@@ -1865,11 +1847,6 @@ Locomotion.GrabWorld.Name
 Locomotion.GrabWorld.Description  
 Locomotion.Slide.Name  
 Locomotion.Slide.Description  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 World.Indicator.Sessions  
 World.Category.HeadlessSessions  
 Indicator.Sync.SyncingItems  
@@ -2371,11 +2348,14 @@ Temporary.MMC.VotedAlready
 Temporary.MMC.VoteInvalid  
 
 # Japanese [ja]
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
+Inspector.DynamicBoneChain.SetupFromChildren  
+Inspector.DynamicBoneChain.SetupFromChildrenAll  
+Inspector.DynamicBoneChain.SetupFromChildrenRig  
+Inspector.DynamicBoneChain.ReplaceSmoothTransforms  
+Inspector.DynamicBoneChain.ClearSmoothTransforms  
+Inspector.DynamicBoneChain.CollidersGrabbingHeader  
+Inspector.DynamicBoneChain.AddFixedCollidersFromHierarchy  
+Inspector.DynamicBoneChain.AlwaysGrabLastBone  
 
 # Korean [ko]
 General.Processing  
@@ -2384,11 +2364,6 @@ Locomotion.GrabWorld.Name
 Locomotion.GrabWorld.Description  
 Locomotion.Slide.Name  
 Locomotion.Slide.Description  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 World.Category.HeadlessSessions  
 User.Actions.Silence  
 Settings.LeapMotion.Name  
@@ -2511,11 +2486,6 @@ Locomotion.GrabWorld.Name
 Locomotion.GrabWorld.Description  
 Locomotion.Slide.Name  
 Locomotion.Slide.Description  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 World.Category.HeadlessSessions  
 Settings.LeapMotion.Name  
 Settings.LeapMotion.Enabled  
@@ -2632,11 +2602,6 @@ Temporary.MMC.VoteInvalid
 
 # Norwegian [no]
 General.Done  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 User.Actions.Silence  
 Inspector.MeshRenderer.MergeByMaterial  
 Inspector.MeshRenderer.SplitByMaterial  
@@ -2666,21 +2631,8 @@ Inspector.DynamicBoneChain.CollidersGrabbingHeader
 Inspector.DynamicBoneChain.AddFixedCollidersFromHierarchy  
 Inspector.DynamicBoneChain.AlwaysGrabLastBone  
 
-# Polish [pl]
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
-Inspector.DynamicBoneChain.SetupFromChildren  
-
 # Russian [ru]
 General.Done  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 Inspector.MeshRenderer.MergeByMaterial  
 Inspector.MeshRenderer.SplitByMaterial  
 Inspector.SkinnedMesh.SeparateOutBlendshapes  
@@ -2711,11 +2663,6 @@ Inspector.DynamicBoneChain.AlwaysGrabLastBone
 
 # Turkish [tr]
 General.Done  
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
 World.Category.HeadlessSessions  
 User.Actions.Silence  
 Settings.LeapMotion.UseFingersWhenSnapped  
@@ -2749,16 +2696,22 @@ Inspector.DynamicBoneChain.AddFixedCollidersFromHierarchy
 Inspector.DynamicBoneChain.AlwaysGrabLastBone  
 
 # Chinese (Simplified, China) [zh-cn]
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
+Inspector.DynamicBoneChain.SetupFromChildren  
+Inspector.DynamicBoneChain.SetupFromChildrenAll  
+Inspector.DynamicBoneChain.SetupFromChildrenRig  
+Inspector.DynamicBoneChain.ReplaceSmoothTransforms  
+Inspector.DynamicBoneChain.ClearSmoothTransforms  
+Inspector.DynamicBoneChain.CollidersGrabbingHeader  
+Inspector.DynamicBoneChain.AddFixedCollidersFromHierarchy  
+Inspector.DynamicBoneChain.AlwaysGrabLastBone  
 
 # Chinese (Traditional, Taiwan) [zh-tw]
-Interaction.NamedEquipTool  
-Interaction.NamedEquipTool.Default  
-Interaction.EnterAnchor  
-Interaction.ExitAnchor  
-Interaction.EquipAvatar  
+Inspector.DynamicBoneChain.SetupFromChildren  
+Inspector.DynamicBoneChain.SetupFromChildrenAll  
+Inspector.DynamicBoneChain.SetupFromChildrenRig  
+Inspector.DynamicBoneChain.ReplaceSmoothTransforms  
+Inspector.DynamicBoneChain.ClearSmoothTransforms  
+Inspector.DynamicBoneChain.CollidersGrabbingHeader  
+Inspector.DynamicBoneChain.AddFixedCollidersFromHierarchy  
+Inspector.DynamicBoneChain.AlwaysGrabLastBone  
 
